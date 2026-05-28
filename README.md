@@ -5,7 +5,7 @@
 ## What is this project?
 StrafOS is a meme python program, with fully safe code storage and creating STRAFS! and more other :)
 ## What is Straf?
-Straf... uhh since this project is russian, i just same as fine (like thing policemans give you)
+Straf... uhh since this project is russian, its just same as fine (like thing policemans give you)
 ## When I start project, it says "your StrafOS is not licensional.". What do i do?
 Reply question: did you made license?
 If no:
